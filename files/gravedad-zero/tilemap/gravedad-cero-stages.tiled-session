@@ -1,0 +1,46 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "stage_1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "ground.tsx": {
+            "scaleInDock": 1
+        },
+        "props.tsx": {
+            "scaleInDock": 1
+        },
+        "stage_1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 2238.6666666666665,
+                "y": 372.66666666666663
+            }
+        }
+    },
+    "last.externalTilesetPath": "/home/welcome/Unity/Proyectos/GravedadZero-Pixelart/Tilemap",
+    "map.fixedSize": true,
+    "map.height": 45,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 300,
+    "openFiles": [
+        "stage_1.tmx"
+    ],
+    "project": "gravedad-cero-stages.tiled-project",
+    "recentFiles": [
+        "stage_1.tmx",
+        "Stage1.tmx"
+    ],
+    "tileset.lastUsedFilter": "Archivos de conjuntos de patrones Tiled (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
