@@ -14,11 +14,11 @@
             "scaleInDock": 1
         },
         "stage_1.tmx": {
-            "scale": 1,
+            "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 334,
-                "y": 219.5
+                "x": 528,
+                "y": 356
             }
         }
     },
